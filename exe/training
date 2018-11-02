@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'lee_training'
+
+LeeTraining::CLI.start
